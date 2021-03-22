@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="team_a_name">Team A</string>
+    <string name="button_text_add_one_goal_to_team_a">1 Goal</string>
+    <string name="button_text_add_one_corner_to_team_a">1 Corner</string>
+    <string name="goal_value_team_a">0</string>
+    <string name="corner_value_team_a">0</string>
+    <string name="team_b_name">Team B</string>
+    <string name="button_text_add_one_goal_to_team_b">1 Goal</string>
+    <string name="button_text_add_one_corner_to_team_b">1 Corner</string>
+    <string name="goal_value_team_b">0</string>
+    <string name="corner_value_team_b">0</string>
+    <string name="resettext">Reset</string>
+</resources>
